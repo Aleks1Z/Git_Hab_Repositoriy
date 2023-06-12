@@ -31,7 +31,7 @@
 
 >*git branch* – посмотреть список веток в репозитории
 
-
+>*git branch [branch naim]* - создать ветку под названием branch_naim
 
 
 
