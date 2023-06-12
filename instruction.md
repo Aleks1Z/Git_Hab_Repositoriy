@@ -19,4 +19,6 @@
 
 # основные команды 2
 
-> *git branch [branch naim]* - создать ветку по названием branch_naim
+> *git branch [branch_naim]* - создать ветку под названием vetka1
+
+>*git checkout -b* [brench_naim] - удалить ветку под названием brench_naim
