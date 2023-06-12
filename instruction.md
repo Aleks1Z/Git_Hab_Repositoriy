@@ -33,5 +33,7 @@
 
 >*git branch [branch naim]* - создать ветку под названием branch_naim
 
+>*git checkout -b* [brench_naim] - удалить ветку под названием brench_naim>
+
 
 
