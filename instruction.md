@@ -19,3 +19,4 @@
 
 # основные команды 2
 
+> *git branch [branch naim]* - создать ветку по названием branch_naim
