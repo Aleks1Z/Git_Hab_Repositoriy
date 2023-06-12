@@ -16,3 +16,6 @@
 > "git diff" – увидеть разницу между текущим файлом и закоммиченным файлом
 
 ![илюстрация к проекту](https://gamalea.ru/wp-content/uploads/nauchnyj-vzglyad.jpg)
+
+# основные команды 2
+
