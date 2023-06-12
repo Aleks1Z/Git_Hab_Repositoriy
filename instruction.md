@@ -23,4 +23,6 @@
 
 >*git checkout* [название ветки] – переход к другой ветке
 
->*git checkout -b* [brench_naim] - удалить ветку под названием brench_naim
+>*git checkout -b* [brench_naim] - удалить ветку под названием brench_naim>
+
+> *git merge --abort* - отменить слияние, которое прошло с конфликтом
